@@ -1,0 +1,29 @@
+.menu-bar {
+  width: 100%;
+  background: black;
+  color: white;
+}
+.menu-bar h5 {
+  margin: .8em;
+}
+.editor-layout {
+  width: 100%;
+  display: flex;
+}
+
+.md-preview--layout {
+  height: 100%;
+  width: 50%;
+  background: blue;
+}
+
+.md-rendered--layout {
+  height: 100%;
+  width: 50%;
+}
+
+.markdown {
+  height: 100%;
+  width: 100%;
+  resize: none;
+}
